@@ -1,0 +1,9 @@
+body {
+  font-size: calc(10px + 2vmin);
+  padding: 0 2em;
+}
+
+.productSize {
+  font-size: 0.6em;
+}
+
