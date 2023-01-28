@@ -10,8 +10,8 @@
 
  /* CSS Global variable starts with :root {...} check w3school docs for more  info */
  :root{
-    --primary-hue: 210;
-    --gray-hue: 240;
+    --primary-hue: 215;
+    --gray-hue: 115;
     /* hsl (hue, saturation, lightness) */
     --color-primary: hsl(var(--primary-hue),100%, 50% );
     --color-primary-variant: hsl(var(--primary-hue), 100%, 65%);
