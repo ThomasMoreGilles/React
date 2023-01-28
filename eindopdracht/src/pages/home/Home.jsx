@@ -6,7 +6,6 @@ import Values from "../../components/Values";
 import FAQs from "../../components/FAQs";
 import Testimonial from "../../components/Testimonial";
 
-
 const Home = () => {
 	return (
 		<>

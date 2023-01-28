@@ -1,7 +1,6 @@
 import {SiOpenaigym} from 'react-icons/si'
 
 
-
 export const links = [
     {
         name: "Home",
@@ -28,8 +27,6 @@ export const links = [
         path: '/contact'
     }
 ]
-
-
 
 
 export const programs = [
@@ -64,11 +61,6 @@ export const programs = [
 ]
 
 
-
-
-
-
-
 export const values = [
     {
         id: 1,
@@ -95,13 +87,6 @@ export const values = [
         desc: "We foster a supportive and inclusive community of members who inspire and motivate each other to reach their full potential."
     }
 ]
-
-
-
-
-
-
-
 
 
 export const faqs = [
@@ -136,12 +121,6 @@ export const faqs = [
         answer: "Weightlifting is one option for strength training, but there are also other options such as bodyweight exercises, resistance bands, and kettlebells. It's important to find a type of strength training that works for you and your fitness level."
     }
 ]
-
-
-
-
-
-
 
 
 export const testimonials = [
@@ -181,10 +160,6 @@ export const testimonials = [
         avatar: require("./images/avatar5.jpg")
     }
 ]
-
-
-
-
 
 
 export const plans = [
@@ -252,13 +227,6 @@ export const plans = [
         ]
     }
 ]
-
-
-
-
-
-
-
 
 
 const Trainer1 = require('./images/trainer1.jpg')
