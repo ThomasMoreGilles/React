@@ -30,11 +30,11 @@ De app zou nu moeten worden geopend in uw browser op http://localhost:3000/
 De belangrijkste bestanden en mappen in deze app zijn:
 
 - src/: Hier bevinden zich alle bronbestanden voor de app, zoals React-componenten, afbeeldingen en stijlen.
-- src/components/: Hier bevinden zich alle React-componenten die worden gebruikt in de app, zoals de Header, Card en Trainer componenten.
-- src/data/: Hier bevinden zich de gegevensbestanden die worden gebruikt in de app, zoals informatie over lidmaatschapsplannen en persoonlijke trainers.
-- src/images/: Hier bevinden zich alle afbeeldingen die worden gebruikt in de app.
-- src/pages/: Hier bevinden zich de pagina-specifieke componenten die worden gebruikt in de app, zoals de Home, Plans en Trainers pagina's.
 - src/App.js: Dit is de hoofdcomponent van de app waarmee de navigatie wordt geconfigureerd.
+- src/pages/: Hier bevinden zich de pagina-specifieke componenten die worden gebruikt in de app, zoals de Home, Plans en Trainers pagina's.
+- src/components/: Hier bevinden zich alle React-componenten die worden gebruikt in de app, zoals de Header, Card en Trainer componenten.
+- src/images/: Hier bevinden zich alle afbeeldingen die worden gebruikt in de app.
+- src/data/: Hier bevinden zich de gegevensbestanden die worden gebruikt in de app, zoals informatie over lidmaatschapsplannen en persoonlijke trainers.
 
 ## Auteur
 - Rousseaux Gilles
