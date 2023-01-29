@@ -1,4 +1,4 @@
-# Eindopdracht React App
+# Eindopdracht React App - Fitnation Gym
 Dit is een React app waarmee gebruikers lid kunnen worden van een fitnesscentrum. Gebruikers kunnen lidmaatschapsplannen bekijken, trainingsschema's bekijken en persoonlijke trainers ontmoeten.
 
 ## Functies
