@@ -9,6 +9,7 @@ import Plans from "./pages/plans/Plans";
 import Trainers from "./pages/trainers/Trainers";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import "./services/firebase";
 
 const App = () => {
 	return (
