@@ -2,7 +2,9 @@
 
 # dependencies
 .idea
+*/.idea
 /node_modules
+*/node_modules
 /.pnp
 .pnp.js
 
@@ -11,6 +13,7 @@
 
 # production
 /build
+*/build
 
 # misc
 .DS_Store
@@ -20,6 +23,7 @@
 .env.test.local
 .env.production.local
 
+*/.DS_Store
 */.env
 */.env.local
 */.env.development.local
@@ -31,6 +35,5 @@ yarn-debug.log*
 yarn-error.log*
 
 package-lock.json
-
-*/node_modules
 */package-lock.json
+
