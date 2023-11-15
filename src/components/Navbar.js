@@ -4,8 +4,7 @@ import { Link, NavLink } from "react-router-dom";
 import React from "react";
 import Logo from "../images/logo.png";
 import { links } from "../data";
-import { GoThreeBars } from "react-icons/go";
-import { MdOutlineClose } from "react-icons/md";
+import { MdOutlineAdd, MdOutlineClose } from "react-icons/md";
 import "./navbar.css";
 
 const Navbar = () => {
@@ -42,7 +41,7 @@ const Navbar = () => {
 					})}
 				</ul>
 				<button onClick={handleNavToggle} className="nav__toggle-btn">
-					{isNavShowing ? <MdOutlineClose /> : <GoThreeBars />}
+					{isNavShowing ? <MdOutlineClose /> : <MdOutlineAdd />}
 				</button>
 			</div>
 		</nav>
