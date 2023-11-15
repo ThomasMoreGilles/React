@@ -5,7 +5,6 @@ import React from "react";
 import Logo from "../images/logo.png";
 import { links } from "../data";
 import { MdOutlineAdd, MdOutlineClose } from "react-icons/md";
-import "./navbar.css";
 
 const Navbar = () => {
 	const [isNavShowing, setIsNavShowing] = useState(false);
