@@ -1,7 +1,7 @@
 import React from "react";
 import "./gallery.css";
 import HeaderImage from "../../images/header_bg_3.jpg";
-import Header from "../../components/Header";
+import Header from "../components/Header";
 
 function Gallery() {
 	const galleryLength = 15;

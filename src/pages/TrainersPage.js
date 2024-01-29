@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "../../components/Header";
+import Header from "../components/Header";
 import HeaderImage from "../../images/header_bg_5.jpg";
 import { BsInstagram } from "react-icons/bs";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
-import { trainers } from "../../data";
-import Trainer from "../../components/Trainer";
+import { trainers } from "../data";
+import Trainer from "../components/Trainer";
 import "./trainers.css";
 
 const Trainers = () => {
