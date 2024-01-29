@@ -16,7 +16,7 @@ const Contact = () => {
 				<div className="container contact__container">
 					<div className="contact__wrapper">
 						<a
-							href="mailto:gilles@rousseaux.dev"
+							href="mailto:glls@rssx.be"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
